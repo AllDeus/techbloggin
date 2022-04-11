@@ -8,7 +8,11 @@
 
 Run Test; 
 - NPM Run
+
+
 Seed DB; 
 - NPM run seed
+
+
 Start server 
 - NPM Start 
