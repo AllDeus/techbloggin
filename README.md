@@ -16,3 +16,11 @@ Seed DB;
 
 Start server 
 - NPM Start 
+
+
+![image](https://user-images.githubusercontent.com/87239985/162863502-83ce1932-3321-4a5d-a776-92225314a143.png)
+
+
+#Deployed App 
+
+https://techbloggin.herokuapp.com/login
